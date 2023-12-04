@@ -18,7 +18,7 @@
 
 <div align="center">
   <h4 align="center">Visitor's count :eyes:</h4></p>  
-  <p align="center"><img src="https://profile-counter.glitch.me/{whflima}/count.svg" alt="WelissonLima :: Visitor's Count" /></p> 
+  <p align="center"><img src="https://profile-counter.glitch.me/{welisson-lima}/count.svg" alt="Welisson Lima :: Visitor's Count" /></p> 
 </div>
 
 <br>
